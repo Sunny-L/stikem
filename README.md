@@ -5,7 +5,8 @@
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/jquery.stickem.js"></script>
 2、调用
-	<div class="container" id="stickem-container">
+
+    <div class="container" id="stickem-container">
 		<div class="nav text-center stickem">我要置顶了</div>
 		<div class="floor"></div>
 		<div class="floor"></div>
@@ -27,4 +28,3 @@
 			eventExecute:2			//传入的执行事件次数
 		});
 	});
-
