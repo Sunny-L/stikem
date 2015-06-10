@@ -19,7 +19,12 @@
 	<script type="text/javascript" src="js/jquery.stickem.js"></script>
 	<script>
 		$(function(){
-			$("body").stickem();
+			$("body").stickem({
+				ev:function(){			//传入的执行事件
+					alert(110);
+				},
+				eventExecute:2			//传入的执行事件次数
+			});
 		});
 	</script>
 	</body>
