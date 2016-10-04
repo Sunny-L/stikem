@@ -1,3 +1,5 @@
+[DEMO](https://sunny-l.github.io/jquery-plugins/stikem/)
+
 ##元素悬浮插件
 ###Usage
 1、载入插件
